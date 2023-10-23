@@ -8,6 +8,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,apollo,arduino,aws,bash,css,discord,bots,docker,eclipse,firebase,git,github,gitlab,gradle,graphql,html,instagram,java,kotlin,linkedin,linux,mongodb,mysql,ps,postgres,postman,powershell,raspberrypi,twitter,visualstudio,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,css,discord,bots,docker,eclipse,firebase,git,github,gitlab,gradle,graphql,html,instagram,java,kotlin,linkedin,linux,mongodb,mysql,ps,postgres,postman,powershell,raspberrypi,twitter,visualstudio,wordpress&perline=14" />
   </a>
 </p>
