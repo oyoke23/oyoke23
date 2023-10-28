@@ -7,18 +7,18 @@ Hello, I'm Kevin Llaberia, A passionate Software Developer 💻.
 </p>
 
 
-<ul align="center">
-    <summary><h2 style="display: inline-block">About Me</h2></summary>
-</ul>
 
+<summary><h2 style="display: inline-block">About Me</h2></summary>
+
+<ul align="center">
 - 👨🏻‍💻 I am a `Junior Developer`.
 - 🤔 Currently searching a `Job Oportunity`
 - 🌱 I’m learning about `Kotlin` and studing `English` (C1-C2).
-
-
-<ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
 </ul>
+
+
+<summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
