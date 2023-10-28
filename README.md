@@ -3,22 +3,19 @@
 Hello, I'm Kevin Llaberia, A passionate Software Developer 💻.
 
 <p align="center"> 
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=4c2882&center=true&vCenter=true&random=true&width=435&lines=Backend+Developer+%F0%9F%93%82.;Competitive+Programmer+%F0%9F%92%BB.;Technology+Lover+%F0%9F%A9%B7.;AI+Enthusiast+%F0%9F%A4%96.;Code+Explorer+%F0%9F%9A%80.;Continuous+Learner+%F0%9F%93%9A.;Mobile+App+Developer+%F0%9F%93%B1.;Bug+Hunter+%F0%9F%90%9B." alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=BA55D3&center=true&vCenter=true&random=true&width=435&lines=Backend+Developer+%F0%9F%93%82.;Competitive+Programmer+%F0%9F%92%BB.;Technology+Lover+%F0%9F%A9%B7.;AI+Enthusiast+%F0%9F%A4%96.;Code+Explorer+%F0%9F%9A%80.;Continuous+Learner+%F0%9F%93%9A.;Mobile+App+Developer+%F0%9F%93%B1.;Bug+Hunter+%F0%9F%90%9B." alt="Typing SVG" /></a>
 </p>
 
 
 
-<summary><h2 style="display: inline-block">About Me</h2></summary>
+<h2 style="display: inline-block">About Me</h2>
 
-<ul align="center">
 - 👨🏻‍💻 I am a `Junior Developer`.
 - 🤔 Currently searching a `Job Oportunity`
 - 🌱 I’m learning about `Kotlin` and studing `English` (C1-C2).
-</ul>
 
 
-<summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-
+<h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,3 +23,5 @@ Hello, I'm Kevin Llaberia, A passionate Software Developer 💻.
   </a>
 </p>
 
+
+<h2 style="display: inline-block">Connect With Me On</h2>
