@@ -2,7 +2,9 @@
 
 Hello, I'm Kevin Llaberia, A passionate Software Developer 💻.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=750&color=6A14E1DA&center=true&vCenter=true&random=true&width=435&lines=Backend+Developer+%F0%9F%93%82.;Competitive+Programmer+%F0%9F%92%BB.;Technology+Lover+%F0%9F%A9%B7.;AI+Enthusiast+%F0%9F%A4%96.;Code+Explorer+%F0%9F%9A%80.;Continuous+Learner+%F0%9F%93%9A.;Mobile+App+Developer+%F0%9F%93%B1.;Bug+Hunter+%F0%9F%90%9B." alt="Typing SVG" /></a>
+<p align="center"> 
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=750&color=6A14E1DA&center=true&vCenter=true&random=true&width=435&lines=Backend+Developer+%F0%9F%93%82.;Competitive+Programmer+%F0%9F%92%BB.;Technology+Lover+%F0%9F%A9%B7.;AI+Enthusiast+%F0%9F%A4%96.;Code+Explorer+%F0%9F%9A%80.;Continuous+Learner+%F0%9F%93%9A.;Mobile+App+Developer+%F0%9F%93%B1.;Bug+Hunter+%F0%9F%90%9B." alt="Typing SVG" /></a>
+</p>
 
 - :seedling: I’m currently learning about Kotlin and learning english (C1-C2).
 
