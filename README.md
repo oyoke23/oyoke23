@@ -1,7 +1,9 @@
 <h1 align="center"> Hi! I'm Kevin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 <!-- Initial description -->
-Hello, I'm Kevin Llaberia, A passionate Software Developer 💻.
+I'm a passionate Software Developer 💻 with a deep love for technology 🌐 and a big interest in gaming 🎮. My objective is to craft user-centric experiences and foster innovation across diverse platforms 🚀, making the digital realm a better place for everyone.
+
+<br>
 
 <!-- Random Words About Me Banner -->
 <p align="center"> 
@@ -13,9 +15,12 @@ Hello, I'm Kevin Llaberia, A passionate Software Developer 💻.
 <!-- About Me -->
 <h2 style="display: inline-block">About Me</h2>
 
-- 👨🏻‍💻 I am a `Junior Developer`.
-- 🤔 Currently searching a `Job Oportunity`
-- 🌱 I’m learning about `Kotlin` and studing `English` (C1-C2).
+- 👨🏻‍💻 Embarking on my journey as a `Junior Developer`.
+- 🤔 On the lookout for `Job Oportunity`.
+- 🌱 Diving into `Kotlin`.
+- 🌱 Advancing my `English (C1-C2)` proficiency.
+- 🌟 Ever enthusiastic to `acquire new knowledge` and tackle `fresh challenges`.
+- 🌐 Excited about creating good experiences across `mobile` and `desktop` platforms.
 
 <!-- Technologies That I Know -->
 <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
