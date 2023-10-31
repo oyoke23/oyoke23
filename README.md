@@ -17,7 +17,7 @@ I'm a passionate Software Developer 💻 with a deep love for technology 🌐 an
 
 - 👨🏻‍💻 Embarking on my journey as a `Junior Developer`.
 - 🤔 On the lookout for `Job Oportunity`.
-- 🌱 Diving into `Kotlin`.
+- 📚 Diving into `Kotlin`.
 - 🌱 Advancing my `English (C1-C2)` proficiency.
 - 🌟 Ever enthusiastic to `acquire new knowledge` and tackle `fresh challenges`.
 - 🌐 Excited about creating good experiences across `multiple platforms`.
