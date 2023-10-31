@@ -20,7 +20,7 @@ I'm a passionate Software Developer 💻 with a deep love for technology 🌐 an
 - 🌱 Diving into `Kotlin`.
 - 🌱 Advancing my `English (C1-C2)` proficiency.
 - 🌟 Ever enthusiastic to `acquire new knowledge` and tackle `fresh challenges`.
-- 🌐 Excited about creating good experiences across `multiple` platforms.
+- 🌐 Excited about creating good experiences across `multiple platforms`.
 
 <!-- Technologies That I Know -->
 <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
