@@ -28,7 +28,7 @@ I'm a passionate Software Developer 💻 with a deep love for technology 🌐 an
 <!-- icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,css,discord,bots,docker,eclipse,firebase,git,github,gitlab,gradle,graphql,html,instagram,java,kotlin,linkedin,linux,mongodb,mysql,ps,postgres,postman,powershell,raspberrypi,twitter,visualstudio,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arch,arduino,aws,bash,css,discord,docker,eclipse,firebase,git,github,gitlab,gmail,gradle,graphql,html,instagram,java,kotlin,linkedin,linux,mongodb,mysql,obsidian,ps,php,postgres,postman,powershell,py,raspberrypi,twitter,ubuntu,visualstudio,vscode,vscodium,wordpress&perline=14" />
   </a>
 </p>
 
