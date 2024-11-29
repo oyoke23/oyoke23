@@ -17,7 +17,7 @@ I'm a passionate Software Developer 💻 with a deep love for technology 🌐 an
 
 - 👨🏻‍💻 Embarking on my journey as a `Junior Developer`.
 - 🤔 On the lookout for `Job Oportunity`.
-- 📚 Diving into `Kotlin`.
+- 📚 Diving into `React`.
 - 🌱 Advancing my `English (C1-C2)` proficiency.
 - 🌟 Ever enthusiastic to `acquire new knowledge` and tackle `fresh challenges`.
 - 🌐 Excited about creating good experiences across `multiple platforms`.
@@ -28,7 +28,7 @@ I'm a passionate Software Developer 💻 with a deep love for technology 🌐 an
 <!-- icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arch,arduino,aws,bash,css,discord,docker,eclipse,firebase,git,github,gitlab,gmail,gradle,graphql,html,instagram,java,kotlin,linkedin,linux,mongodb,mysql,obsidian,ps,php,postgres,postman,powershell,py,raspberrypi,twitter,ubuntu,visualstudio,vscode,vscodium,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arch,arduino,aws,bash,bun,cloudflare,css,discord,docker,eclipse,figma,firebase,git,github,gitlab,gmail,gradle,graphql,html,instagram,java,js,kotlin,linkedin,linux,mongodb,mysql,nextjs,nodejs,notion,npm,obsidian,ps,php,pnpm,postgres,postman,powershell,prisma,py,raspberrypi,react,supabase,svg,tailwind,twitter,ts,ubuntu,vercel,visualstudio,vscode,vscodium,windows,wordpress&perline=14" />
   </a>
 </p>
 
